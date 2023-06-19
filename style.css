@@ -1,0 +1,22 @@
+*{ box-sizing: border-box;
+margin: 0;
+padding: 0;}
+
+main{ 
+    display: flex;
+    border: solid black 10px;
+height: 120vh;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+
+div{ width: 35vw;
+height: 25vh;}
+
+.azul{ background-color: blue;}
+
+.laranja{ background-color: orange;}
+
+.cinza{ background-color: grey;}
+
+.violeta{background-color: violet;}
